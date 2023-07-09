@@ -13,3 +13,4 @@ Background music
 Collecting objects
 ### Some example of tests one could do to prove that the features work:
 In the gameplay scene, one could walk to the end of the 'house', or exit it, and find an emissive light blue cube. This light blue cube is a portal, that would teleport the player to the final scene.
+In the options menu, one could try to slide the volume.
