@@ -9,5 +9,6 @@ Object oriented.
 Designed a portal. This portal is accessible in the gameplay scene, 'SceneSample', which allows teleportation to the final scene.
 Health bar.
 Options menu: Volume slider
+Background music
 ### Some example of tests one could do to prove that the features work:
 In the gameplay scene, one could walk to the end of the 'house', or exit it, and find an emissive light blue cube. This light blue cube is a portal, that would teleport the player to the final scene.
