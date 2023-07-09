@@ -16,7 +16,11 @@ In the gameplay scene, one could walk to the end of the 'house', or exit it, and
 In the options menu, one could try to slide the volume.
 To collect objects, one could try walking towards the firewood area, where there are 4 benches located outside of the house, in the gameplay scene. There is a special collectible item here, a gold key. Player can walk towards the key and observe if the item is being collected. If the key is no longer visible in the gameplay, it means player has successfully collected it.
 ### How to use:
-1. Clone this repository: https://github.com/Mailonight/i3e-stld-humaira.git
+1. Clone this repository:
 2. Go into the repository
 3. Install it
 4. Run the app
+### What is the game about?
+Your spaceship has crashed and it landed on Mars. However, you realized that your spaceship is a little damaged and you can't go anywhere until you find the necessary items that could fix your spaceship so that you could fly back home. Since it landed on Mars, you have to explore the planet and find the required items. The required items are a few books, a world map, a radio and a special item, a key. They are often placed on the floors. After collecting those missing items, your spaceship is automatically fixed. However, you would have to find your way to the final location where you can be with your newly fixed spaceship. There is a portal to the final location, and that is where your game ends.
+### How to play:
+In the main menu screen, players should press How to Play
