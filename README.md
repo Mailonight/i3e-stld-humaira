@@ -16,7 +16,7 @@ In the gameplay scene, one could walk to the end of the 'house', or exit it, and
 In the options menu, one could try to slide the volume.
 To collect objects, one could try walking towards the firewood area, where there are 4 benches located outside of the house, in the gameplay scene. There is a special collectible item here, a gold key. Player can walk towards the key and observe if the item is being collected. If the key is no longer visible in the gameplay, it means player has successfully collected it.
 ### How to use:
-1. Clone this repository: 
+1. Clone this repository: https://github.com/Mailonight/i3e-stld-humaira.git
 2. Go into the repository
 3. Install it
 4. Run the app
