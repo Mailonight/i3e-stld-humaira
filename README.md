@@ -7,3 +7,5 @@ Some errors are evident in the game. For example, the menu page. The menu page m
 Object oriented.
 ### Features done:
 Designed a portal. This portal is accessible in the gameplay scene, 'SceneSample', which allows teleportation to the final scene.
+Health bar.
+Options menu: Volume slider
