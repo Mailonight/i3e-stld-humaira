@@ -9,3 +9,4 @@ Object oriented.
 Designed a portal. This portal is accessible in the gameplay scene, 'SceneSample', which allows teleportation to the final scene.
 Health bar.
 Options menu: Volume slider
+### Some example of tests one could do to prove that the features work:
