@@ -1,4 +1,4 @@
-# i3e-stld-humaira
+# i3e-stld-humaira-s10221074d-assignment 2
 ### Built with: C#
 ### Game name: Mars
 ### Build status: 
