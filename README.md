@@ -25,4 +25,5 @@ Your spaceship has crashed and it landed on Mars. However, you realized that you
 ### How to play:
 In the main menu screen, players should press How to Play. This is to allow players to understand more about the game. Afterward, press back and press 'Play' to start the gameplay.
 Once the game starts, players should roam around the house and outside of it to find the required items. To collect the items, players should walk towards it and it will automatically be collected.
-
+After ensuring that all the items have been collected, most importantly, the special item, which is the key, players should try to find a portal. The portal is light blue in color and it is emissive. It can be found outside of the house. 
+By walking towards the portal and into it, players would find themselves in another world. Fret not, they're on the right path and the game has ended. They found themselves in another location with a brand new and improved spaceship. Therefore, the game ends there.
