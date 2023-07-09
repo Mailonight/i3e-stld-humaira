@@ -23,5 +23,6 @@ To collect objects, one could try walking towards the firewood area, where there
 ### What is the game about?
 Your spaceship has crashed and it landed on Mars. However, you realized that your spaceship is a little damaged and you can't go anywhere until you find the necessary items that could fix your spaceship so that you could fly back home. Since it landed on Mars, you have to explore the planet and find the required items. The required items are a few books, a world map, a radio and a special item, a key. They are often placed on the floors. After collecting those missing items, your spaceship is automatically fixed. However, you would have to find your way to the final location where you can be with your newly fixed spaceship. There is a portal to the final location, and that is where your game ends.
 ### How to play:
-In the main menu screen, players should press How to Play. This is to allow players to understand more about the game. Afterwards, press back and press 'Play' to start the gameplay.
+In the main menu screen, players should press How to Play. This is to allow players to understand more about the game. Afterward, press back and press 'Play' to start the gameplay.
+Once the game starts, players should roam around the house and outside of it to find the required items. To collect the items, players should walk towards it and it will automatically be collected.
 
