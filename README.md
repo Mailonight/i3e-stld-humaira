@@ -15,3 +15,4 @@ Collecting objects
 In the gameplay scene, one could walk to the end of the 'house', or exit it, and find an emissive light blue cube. This light blue cube is a portal, that would teleport the player to the final scene.
 In the options menu, one could try to slide the volume.
 To collect objects, one could try walking towards the firewood area, where there are 4 benches located outside of the house, in the gameplay scene. There is a special collectible item here, a gold key. Player can walk towards the key and observe if the item is being collected. If the key is no longer visible in the gameplay, it means player has successfully collected it.
+### How to use:
